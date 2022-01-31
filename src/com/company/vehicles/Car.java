@@ -31,6 +31,9 @@ public  class Car {
     void turnLeft() {
         System.out.printf("Поворот налево");
     }
+    void testgit(){
+
+    }
 
     public String toString() {
         //System.out.printf(this.carClass + this.marka + this.driver + this.engine);
